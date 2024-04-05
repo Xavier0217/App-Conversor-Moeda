@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moedas">
+        <item>Selecione uma Moeda</item>
+        <item>Euro</item>
+        <item>Dólar</item>
+    </string-array>
+
+</resources>
